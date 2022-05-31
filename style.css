@@ -72,16 +72,3 @@ body {
 .calc-btn {
     border-bottom: 1px solid #000;
 }
-
-.last-result {
-    position: absolute;
-    background-color: #000;
-    color: white;
-    min-width: 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100px;
-    top: 100px;
-    left: 100px;
-}
